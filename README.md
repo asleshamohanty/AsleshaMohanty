@@ -7,7 +7,6 @@
 
 - Email: [aslesha2909@gmail.com](mailto:aslesha2909@gmail.com)
 - LinkedIn: [www.linkedin.com/in/aslesha-mohanty-7b8447223](https://www.linkedin.com/in/aslesha-mohanty-7b8447223)
-- Portfolio: [https://asleshamohanty.github.io/portfolio/](https://asleshamohanty.github.io/portfolio/)
 
 
 ## Tech Stack:
