@@ -1,5 +1,9 @@
 # hi, i'm aslesha mohanty
-cse undergraduate with hands-on experience building data-intensive applications, backend APIs, and analytics dashboards. comfortable working with SQL, Python, ETL pipelines, and machine learning techniques to analyze real-world datasets and support product and business decisions. interested in applied data science, AI/ML systems, product analytics, and building intelligent systems where data directly drives measurable impact.
+
+cse undergraduate passionate about building intelligent, data-driven systems at the intersection of software engineering, ai/ml, analytics, and product engineering. experienced in developing full-stack applications, backend APIs, LLM-powered platforms, and data-intensive systems using Python, SQL, FastAPI, React, and machine learning techniques, with a strong focus on data security, scalable system design, and reliable AI-driven infrastructure.
+
+interested in applied AI, data science, product analytics, and building intelligent products where machine learning, business strategy, and data-driven decision making create measurable real-world impact.
+
 
 <!--
 - I am an Undergrad CSE student at Manipal Institute of Technology, passionate about Machine Learning, Data Science, and Artificial Intelligence.
